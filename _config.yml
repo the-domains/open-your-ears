@@ -1,0 +1,28 @@
+name: 'Open Your Ears!'
+favicon: null
+layout_spectrum: 0.6846793559379876
+typography_spectrum: 0.28097005537711084
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.17450168868526816
+  lightness: 0.7079273068811744
+  saturation: 0.802460270235315
+  rhythmicContrast: 0.5437817270867527
+purpose: []
